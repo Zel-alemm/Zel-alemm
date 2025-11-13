@@ -87,7 +87,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yalem2105@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zelalem-tadese/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-764ba2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-764ba2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zel-alem.netlify.app)
 
 </div>
 
